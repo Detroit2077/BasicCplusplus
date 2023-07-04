@@ -1,0 +1,15 @@
+Write a C++ program to read a text file and count the number of words in it.
+Write a C++ program to read a binary file and display the contents of the file on the screen.
+Write a C++ program to read two text files, concatenate the contents of the files and write them to a third file.
+Write a C++ program to read a text file and convert all the lowercase letters to uppercase letters and write the output to another file.
+Write a C++ program to read a CSV file and display the data in a tabular format on the screen.
+Write a C++ program to read a text file and remove all the blank spaces from it and write the output to another file.
+Write a C++ program to read a binary file containing student records and sort the records based on the student's roll number.
+Write a C++ program to read a text file containing numbers and find the largest and smallest number in it.
+Write a C++ program to read a text file containing the names of cities and their population and find the city with the highest population.
+Write a C++ program to read a text file containing a list of names and their ages and sort the names based on their ages.
+Coffee is a plant (Coffea) and the name of the drink that is made from this plant. The coffee plant is a bush or tree that can grow up to ten meters (about 32 feet) high, but is usually cut shorter. Coffee plants originally grew in Ethiopia, and now also grow in South America, Central America and Southeast Asia. They are an important crop for the economies of many countries.
+
+The drink is made from the seeds of the coffee plant, called coffee beans. Coffee is usually served hot, and is a popular drink in many countries. Coffee contains a chemical called caffeine, a mild drug that keeps people awake.
+
+To make a drink from coffee beans, the beans must first be specially prepared by drying the beans and then roasting. The beans are dried a short time after they are picked. This preserves them and makes them ready to be packed or roasted. Before the beans are made into a drink, they must be roasted or ground (crushed into tiny pieces in a coffee mill). When the ground coffee is placed into boiling water, the flavour and dark brown colour of the beans goes into the water. Making coffee is called brewing coffee. There are several different ways that coffee can be brewed.

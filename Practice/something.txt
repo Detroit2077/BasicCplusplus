@@ -1,0 +1,10 @@
+Write a C++ program to read a text file and count the number of words in it.
+Write a C++ program to read a binary file and display the contents of the file on the screen.
+Write a C++ program to read two text files, concatenate the contents of the files and write them to a third file.
+Write a C++ program to read a text file and convert all the lowercase letters to uppercase letters and write the output to another file.
+Write a C++ program to read a CSV file and display the data in a tabular format on the screen.
+Write a C++ program to read a text file and remove all the blank spaces from it and write the output to another file.
+Write a C++ program to read a binary file containing student records and sort the records based on the student's roll number.
+Write a C++ program to read a text file containing numbers and find the largest and smallest number in it.
+Write a C++ program to read a text file containing the names of cities and their population and find the city with the highest population.
+Write a C++ program to read a text file containing a list of names and their ages and sort the names based on their ages.

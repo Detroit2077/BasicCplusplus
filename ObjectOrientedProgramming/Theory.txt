@@ -1,0 +1,5 @@
+1. Abstraction and Encapsulation-Wrapping data and functions into single unit.
+2. Inheritance- Properties of one class can be inherited to others.
+3. Polymorphism-ability to take more than one forms.
+4. Dynamic Binding- code which will execute is no known until the program runs.
+5. Message Passing- Object.message(information) call format.
